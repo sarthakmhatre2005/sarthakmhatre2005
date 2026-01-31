@@ -72,9 +72,9 @@ I’m curious, hands‑on, and enjoy collaborating on impactful projects and hac
   - **AI Resume Analyzer:** NLP-based resume analyzer with ATS-style scoring and AI-driven job recommendations. [file:21]  
   - **AI Interview Coach:** Uses Gemini API to generate tailored interview questions and give instant feedback. [file:21]  
 
-- **Programming Quiz / Dashboard (College Project)**  
-  Web-based quiz or dashboard to help students practice programming concepts,  
-  with scoring, analytics, and a clean UI.
+- **Code Compiler**  
+  Web-based code compiler ,  
+  with error detection clean UI.
 
 ---
 
