@@ -1,107 +1,59 @@
-<h1 align="center">Hi 👋, I'm Sarthak Mhatre</h1>
-<h3 align="center">B.Tech Computer Technology | Cybersecurity, AI & ML Enthusiast</h3>
+👋 Hi, I'm Sarthak Mhatre
 
-<p align="center">
-  📍 Worli, Mumbai · 📧 <a href="mailto:sarthakmhatre1495@gmail.com">sarthakmhatre1495@gmail.com</a> · 
-  🔗 <a href="https://www.linkedin.com/in/sarthak-mhatre-b702b526b/">LinkedIn</a>
-</p>
+AI & Cybersecurity Student focused on building intelligent, adaptive defense systems.
 
----
+I work at the intersection of network security, anomaly detection, and applied machine learning, exploring how systems can move beyond static rules toward autonomous threat response.
 
-### 👨‍💻 About Me  
+🔐 What I Build
 
-I’m a B.Tech student in Computer Technology at Ratan Tata Maharashtra State Skills University, 
-with a strong interest in **cybersecurity, AI, and machine learning**. [file:21]  
-I love building practical solutions that combine security with intelligent automation—  
-from AI-based recommendation systems to malware detection and interview coaching tools. [file:21]  
-I’m curious, hands‑on, and enjoy collaborating on impactful projects and hackathons.
+AI-driven firewall and threat detection systems
 
----
+Real-time packet analysis tools using NetfilterQueue & Scapy
 
-### 🛠 Tech Skills  
+Autonomous OS-level blocking mechanisms
 
-- **Programming:** Python, C, Basic Java [file:21]  
-- **Web Development:** HTML, CSS, Basic JavaScript [file:21]  
-- **Databases:** MySQL, SQL Server, DBMS [file:21]  
-- **AI / ML & Data:** Machine Learning, Deep Learning, AI Model Development,  
-  Data Analysis, NLP, Data Cleaning [file:21]  
-- **Cybersecurity & Networking:** Computer Networks, Network Defense,  
-  Cyber Threat Management, Risk Management, Web Security [file:21]  
-- **Tools & Platforms:** Flask, Gemini API, Kali Linux, VS Code, Git, GitHub  
-- **Soft Skills:** Collaboration, Problem-solving, Communication, Adaptability [file:21]  
+AI-powered healthcare and recommendation systems
 
----
+Experimental Quantum ML concepts for malware analysis
 
-### 🏆 Achievements & Highlights  
+🏆 Competitive Experience
 
-- 🥈 **PixelRush Hackathon – 2nd Place (April 2025)**  
-  Built *Health Connect*, an AI‑powered telehealth platform using Flask and Google Gemini AI. [file:21]  
+All-India Top 10 Finalist – Hack With Mumbai 2.0
+Built an AI-driven autonomous cyber defense system
 
-- 🏅 **Indian Army Cyber Terrier Quest 2025 – Finalist**  
-  Developed a **Quantum ML–based malware detection system**, a quantum-inspired cybersecurity solution  
-  for real-time threat analysis. [file:21]  
+Top 75 National Finalist (out of 10,000+) – Indian Army Terrier Cyber Quest 2025
+Worked on Quantum Machine Learning for cybersecurity
 
-- 🎯 **Hands-on Cybersecurity Practice**  
-  - Completed multiple **TryHackMe** labs (networking, web vulns, privilege escalation).  
-  - Worked through **PortSwigger Web Security Academy** labs to strengthen web app security skills.  
-  - Academic focus on **Network Defense, Web Security, and Cyber Threat Management**. [file:21]  
+2nd Place – Pixel-Rush (Campus & University Level)
+Led development of HealthConnect, an AI-based healthcare solution
 
----
+🛠️ Tech Stack
 
-### 🚀 Featured Projects (to be pinned)  
+Security & Networking
+Python • Scapy • NetfilterQueue • Kali Linux • SQLite
 
-> Update the repo links (`link-to-repo`) to your actual GitHub repo URLs.
+AI & ML
+Machine Learning • Deep Learning • Anomaly Detection • Data Analysis
 
-- **Antivirus Code Compiler** – `Python / Security Tools`  
-  A prototype antivirus-style code analysis tool that scans and flags suspicious or malicious patterns.  
-  Includes rule-based detection logic, safe code guidelines, and a simple CLI/GUI interface.  
+Development
+Flask • MySQL • PostgreSQL • Git
 
-- **AI-Based Course Recommendation System** – `Flask · Gemini · NLP`  
-  Built an AI-powered course recommendation system using Google Gemini and NLP to deliver  
-  personalized learning suggestions with dynamic learning paths and skill-gap analysis. [file:21]  
+🚀 Current Focus
 
-- **Health Connect – AI Telehealth Platform** – `Flask · Gemini`  
-  AI‑powered telehealth app where users can get health insights and recommendations via an  
-  interactive interface backed by Gemini AI. Built for PixelRush Hackathon (2nd place). [file:21]  
+Adaptive firewall architectures
 
-- **Quantum ML–Based Malware Detection** – `Quantum-inspired ML · Cybersecurity`  
-  Quantum-inspired ML approach for malware detection, designed for real-time behavioral analysis  
-  and anomaly detection. Finalist solution at Indian Army Cyber Terrier Quest 2025. [file:21]  
+AI-based anomaly detection models
 
-- **AI Job Recommendation & Interview Coach** – `Flask · Gemini · NLP`  
-  - **AI Resume Analyzer:** NLP-based resume analyzer with ATS-style scoring and AI-driven job recommendations. [file:21]  
-  - **AI Interview Coach:** Uses Gemini API to generate tailored interview questions and give instant feedback. [file:21]  
+Autonomous cyber defense systems
 
-- **Code Compiler**  
-  Web-based code compiler ,  
-  with error detection clean UI.
+Applied ML in security environments
 
----
+📫 Connect With Me
 
-### 📊 GitHub Activity  
+LinkedIn: (www.linkedin.com/in/sarthak-mhatre-b702b526b)
+Email: (sarthakmhatre1495@gmail.com)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarthakmhatre2005&show_icons=true&theme=tokyonight" alt="Sarthak's GitHub stats"/>
-</p>
+🔭 Philosophy
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sarthakmhatre2005&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
----
-
-### 🌐 Languages  
-
-- English  
-- Hindi  
-- Marathi  
-- German (Basic) [file:21]  
-
----
-
-### 📫 Connect with Me  
-
-- LinkedIn: [Sarthak Mhatre](https://www.linkedin.com/in/sarthak-mhatre-b702b526b/) [file:21]  
-- Email: **sarthakmhatre1495@gmail.com** [file:21]  
-- Location: Worli, Mumbai [file:21]  
-
+Security should not just react.
+It should learn.
